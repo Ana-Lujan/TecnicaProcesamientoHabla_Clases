@@ -1,12 +1,11 @@
-## 🧠 TecnicaProcesamientoHabla 📊
+# 🧠 TecnicaProcesamientoHabla 📊
 
 📚 Recursos académicos 
 
-# 🔍 Contenido  
+ 🔍 Contenido  
 ✅ Web Scraping
 ✅ Spacy
 ✅ Text Mining
 
-# 🚀 Habilidades desarrolladas  
-
+ 🚀 Habilidades desarrolladas  
 🧪 Técnicas para extraer, limpiar y visualizar daros con Python 🐍 
