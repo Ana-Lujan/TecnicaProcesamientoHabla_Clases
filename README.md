@@ -2,10 +2,11 @@
 
 📚 Recursos académicos 
 
- 🔍 Contenido  
-✅ Web Scraping
-✅ Spacy
-✅ Text Mining
+ ## 🔍 Contenido
+ 
+- Web Scraping ✅
+- Spacy ✅
+- Text Mining ✅
 
- 🚀 Habilidades desarrolladas  
+ ## 🚀 Habilidades desarrolladas  
 🧪 Técnicas para extraer, limpiar y visualizar daros con Python 🐍 
