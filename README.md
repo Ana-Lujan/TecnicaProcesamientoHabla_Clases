@@ -23,6 +23,6 @@
 
 🔍 Explorar el lenguaje humano desde los datos.
 
-## 🚀 Objetivo general 
+## 🎯 Objetivo general 
 
 Aplicar técnicas fundamentales y herramientas del procesamiento del habla y del lenguaje natural para analizar contenido textual real, combinando extracción de datos, preprocesamiento, análisis gramatical y visualización.
