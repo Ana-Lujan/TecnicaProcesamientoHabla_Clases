@@ -1,7 +1,9 @@
 # 🧠🎙️ Técnicas del Procesamiento del Habla 📊
 
 📚 Recursos académicos 
+
 🏫 Materia de la Tecnicatura en Ciencia de Datos: Procesamiento del Habla
+
 ✅ Este repositorio reúne prácticas y proyectos aplicando técnicas de análisis de texto.
 
  ## 🔍 Contenido
@@ -18,6 +20,7 @@
  ## 🚀 Habilidades desarrolladas  
  
 🧪 Técnicas para extraer, limpiar y visualizar datos con Python 🐍 
+
 🔍 Explorar el lenguaje humano desde los datos.
 
 ## 🚀 Objetivo general 
