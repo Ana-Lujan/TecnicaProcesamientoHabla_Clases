@@ -2,7 +2,7 @@
 
 📚 Recursos académicos 
 
-🏫 Materia de la Tecnicatura en Ciencia de Datos: Procesamiento del Habla
+🏫 Materia de la Tecnicatura en Ciencia de Datos
 
 ✅ Este repositorio reúne prácticas y proyectos aplicando técnicas de análisis de texto.
 
