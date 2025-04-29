@@ -2,21 +2,40 @@
 Ana
 ______________________
 
-🕷️ Web Scraping: Es una técnica para extraer datos de sitios web 📊.
+# 📘 TP N.º 1 – Web Scraping y Análisis de Texto: La Odisea
 
- 🔧 Pasos Básicos para el Web Scraping
+## 🎯 Objetivo
 
-1- 🌐 Identificar la URL
-Seleccionar la página web de interés (ej: foros, noticias, redes sociales).
+Practicar técnicas de Web Scraping sobre un texto extenso y real, y aplicar un primer análisis de procesamiento de lenguaje: 
+limpieza, conteo de frecuencia y visualización de palabras relevantes.
 
-2- 🔍 Analizar la estructura (HTML)
-Usar Inspeccionar Elemento (DevTools) para localizar etiquetas relevantes (<div>, <p>, etc.).
+## ⚙️ Herramientas y Librerías Usadas
 
-3- 📥 Hacer solicitud HTTP
-Librerías como requests (Python) descargan el contenido de la página.
+- requests 📡
+- BeautifulSoup 🍜
+- re 🔡
+- collections.Counter 🔢
+- wordcloud ☁️
+- matplotlib.pyplot 📊
 
-4- ⚙️ Parsear y extraer datos
-Herramientas como BeautifulSoup o Scrapy filtran la información útil.
+## 🧠 Pasos del Trabajo
 
-5- Visualizacion de los datos extraidos
+- Extracción de Texto
+Se realizó Web Scraping sobre el contenido del libro.
 
+- Limpieza de Texto
+Eliminación de caracteres especiales, saltos de línea y símbolos no deseados.
+Conversión del texto a minúsculas.
+
+- Tokenización y Frecuencia
+División del texto en palabras (tokens).
+Cálculo de las palabras más frecuentes utilizando Counter.
+
+- Visualización
+Se generó una nube de palabras que muestra los términos más repetidos en el texto.
+
+## 📊 Resultados
+
+- Se identificaron palabras clave en el contenido de La Odisea como nombres propios, verbos de acción y elementos recurrentes del relato.
+
+- La nube de palabras ofreció una visualización sintética del vocabulario predominante en el texto clásico.
