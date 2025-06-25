@@ -1,28 +1,31 @@
-# 🧠🎙️ Técnicas del Procesamiento del Habla 📊
+# 💻🗣️ Interfaces para PLN
 
-📚 Recursos académicos 
+✅ Este módulo está enfocado en el diseño y desarrollo de **interfaces gráficas o interactivas** para demostrar el funcionamiento de modelos de **Procesamiento de Lenguaje Natural** (PLN).
 
-🏫 Materia de la Tecnicatura en Ciencia de Datos
+---
 
-✅ Este repositorio reúne prácticas y proyectos aplicando técnicas de análisis de texto.
+## 🔍 Contenido
 
- ## 🔍 Contenido
- 
-- Web Scraping con BeautifulSoup 📄 
-- Preprocesamiento y limpieza de texto ✨
-- Extracción y análisis  🎧 
-- Procesamiento de Lenguaje Natural (PLN) con spaCy 🧠
-- Minería de texto (Text Mining) 📊
-- Visualización de resultados 📊
+- 🧱 Creación de interfaces simples con Gradio y Streamlit  
+- 🗣️ Integración de modelos de PLN en tiempo real  
+- 🧪 Casos de uso: análisis de sentimientos, detección de entidades, respuesta automática  
+- 🌐 Despliegue básico de interfaces en web local o nube  
+- 📦 Empaquetado de proyectos para uso externo
 
-🐍 Todo desarrollado en Python, utilizando librerías como BeautifulSoup, spaCy, NLTK, pandas, entre otras.
+🐍 Desarrollado en **Python**, utilizando herramientas como:  
+`gradio`, `streamlit`, `flask`, `transformers`, `spaCy`, `nltk`, `scikit-learn`
 
- ## 🚀 Habilidades desarrolladas  
- 
-🧪 Técnicas para extraer, limpiar y visualizar datos con Python 🐍 
+---
 
-🔍 Explorar el lenguaje humano desde los datos.
+## 🚀 Habilidades desarrolladas
 
-## 🎯 Objetivo general 
+- 💻 Diseño de interfaces amigables para modelos de lenguaje  
+- 🔁 Conexión entre lógica de PLN y front-end interactivo  
+- 🌍 Exposición de modelos como servicios accesibles y visuales  
+- 📊 Demostración clara del procesamiento y salida de texto
 
-Aplicar técnicas fundamentales y herramientas del procesamiento del habla y del lenguaje natural para analizar contenido textual real, combinando extracción de datos, preprocesamiento, análisis gramatical y visualización.
+---
+
+## 🎯 Objetivo general
+
+Desarrollar **interfaces funcionales e intuitivas** que permitan probar y visualizar en tiempo real el funcionamiento de modelos de PLN, acercando la inteligencia artificial a usuarios no técnicos.
