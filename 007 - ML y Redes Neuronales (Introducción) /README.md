@@ -1,28 +1,33 @@
-# 🧠🎙️ Técnicas del Procesamiento del Habla 📊
+# 🤖🔗 Introducción a Machine Learning y Redes Neuronales
 
-📚 Recursos académicos 
+✅ Este módulo presenta una introducción a los fundamentos del Aprendizaje Automático (Machine Learning) y Redes Neuronales aplicadas al procesamiento del lenguaje natural.
 
-🏫 Materia de la Tecnicatura en Ciencia de Datos
+---
 
-✅ Este repositorio reúne prácticas y proyectos aplicando técnicas de análisis de texto.
+## 🔍 Contenido
 
- ## 🔍 Contenido
- 
-- Web Scraping con BeautifulSoup 📄 
-- Preprocesamiento y limpieza de texto ✨
-- Extracción y análisis  🎧 
-- Procesamiento de Lenguaje Natural (PLN) con spaCy 🧠
-- Minería de texto (Text Mining) 📊
-- Visualización de resultados 📊
+- 📊 Introducción a algoritmos de Machine Learning supervisado y no supervisado  
+- 🧠 Fundamentos de redes neuronales artificiales  
+- ⚙️ Arquitectura de una red neuronal simple (Perceptrón)  
+- 🔄 Propagación hacia adelante y hacia atrás (Backpropagation)  
+- 🧪 Entrenamiento y evaluación con datos de texto preprocesados  
+- 🧰 Implementación con `scikit-learn` y `TensorFlow` / `Keras`  
 
-🐍 Todo desarrollado en Python, utilizando librerías como BeautifulSoup, spaCy, NLTK, pandas, entre otras.
+🐍 Desarrollado en **Python**, utilizando librerías como:  
+`scikit-learn`, `keras`, `tensorflow`, `numpy`, `pandas`, `matplotlib`
 
- ## 🚀 Habilidades desarrolladas  
- 
-🧪 Técnicas para extraer, limpiar y visualizar datos con Python 🐍 
+---
 
-🔍 Explorar el lenguaje humano desde los datos.
+## 🚀 Habilidades desarrolladas
 
-## 🎯 Objetivo general 
+- 🤖 Comprensión del flujo de trabajo básico en Machine Learning  
+- 🔗 Modelado de redes neuronales simples  
+- 📈 Evaluación de modelos con métricas como accuracy y loss  
+- 🛠️ Aplicación de técnicas de preprocesamiento para alimentar modelos de ML
 
-Aplicar técnicas fundamentales y herramientas del procesamiento del habla y del lenguaje natural para analizar contenido textual real, combinando extracción de datos, preprocesamiento, análisis gramatical y visualización.
+---
+
+## 🎯 Objetivo general
+
+Familiarizarse con los conceptos y herramientas fundamentales del Aprendizaje Automático y Redes Neuronales, aplicándolos a problemas básicos del lenguaje y estableciendo una base sólida para modelos más complejos en futuras prácticas.
+
