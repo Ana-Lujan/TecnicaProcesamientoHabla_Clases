@@ -1,28 +1,30 @@
-# 🧠🎙️ Técnicas del Procesamiento del Habla 📊
+# 🛡️📜 Gobernanza en Inteligencia Artificial y PLN
 
-📚 Recursos académicos 
+✅ Este módulo aborda la **gobernanza, ética y regulaciones** vinculadas al desarrollo y aplicación de tecnologías de Inteligencia Artificial y Procesamiento de Lenguaje Natural (PLN).
 
-🏫 Materia de la Tecnicatura en Ciencia de Datos
+---
 
-✅ Este repositorio reúne prácticas y proyectos aplicando técnicas de análisis de texto.
+## 🔍 Contenido
 
- ## 🔍 Contenido
- 
-- Web Scraping con BeautifulSoup 📄 
-- Preprocesamiento y limpieza de texto ✨
-- Extracción y análisis  🎧 
-- Procesamiento de Lenguaje Natural (PLN) con spaCy 🧠
-- Minería de texto (Text Mining) 📊
-- Visualización de resultados 📊
+- ⚖️ Fundamentos de ética en IA y responsabilidad algorítmica  
+- 🧠 Sesgos en modelos de PLN y cómo mitigarlos  
+- 🔐 Privacidad, consentimiento y tratamiento de datos personales  
+- 🌍 Marco legal nacional e internacional (RGPD, Ley de Datos Personales)  
+- 📑 Principios de transparencia, explicabilidad y equidad  
+- 🧪 Casos prácticos: discriminación algorítmica, decisiones automatizadas, impacto social
 
-🐍 Todo desarrollado en Python, utilizando librerías como BeautifulSoup, spaCy, NLTK, pandas, entre otras.
+---
 
- ## 🚀 Habilidades desarrolladas  
- 
-🧪 Técnicas para extraer, limpiar y visualizar datos con Python 🐍 
+## 🚀 Habilidades desarrolladas
 
-🔍 Explorar el lenguaje humano desde los datos.
+- 🛡️ Identificación de riesgos éticos y sociales en el uso de PLN  
+- ⚖️ Aplicación de principios de gobernanza a proyectos de IA  
+- 🔍 Evaluación crítica del uso de datos y modelos en contextos reales  
+- 📚 Comprensión del marco legal y regulatorio en IA
 
-## 🎯 Objetivo general 
+---
 
-Aplicar técnicas fundamentales y herramientas del procesamiento del habla y del lenguaje natural para analizar contenido textual real, combinando extracción de datos, preprocesamiento, análisis gramatical y visualización.
+## 🎯 Objetivo general
+
+Promover una mirada crítica y responsable sobre el uso de tecnologías de PLN e Inteligencia Artificial, incorporando principios éticos, legales y sociales en todas las etapas de desarrollo, implementación y evaluación de modelos.
+
