@@ -1,30 +1,33 @@
-# 🛡️📜 Gobernanza en Inteligencia Artificial y PLN
+# 🛡️🤖 Gobernanza de IA — Proyecto *Faker*
 
-✅ Este módulo aborda la **gobernanza, ética y regulaciones** vinculadas al desarrollo y aplicación de tecnologías de Inteligencia Artificial y Procesamiento de Lenguaje Natural (PLN).
+✅ Este proyecto explora aspectos de **gobernanza y ética en inteligencia artificial** mediante la simulación de datos con la librería `Faker`, abordando temas como privacidad, sesgos algorítmicos y uso responsable de datos sintéticos.
 
 ---
 
 ## 🔍 Contenido
 
-- ⚖️ Fundamentos de ética en IA y responsabilidad algorítmica  
-- 🧠 Sesgos en modelos de PLN y cómo mitigarlos  
-- 🔐 Privacidad, consentimiento y tratamiento de datos personales  
-- 🌍 Marco legal nacional e internacional (RGPD, Ley de Datos Personales)  
-- 📑 Principios de transparencia, explicabilidad y equidad  
-- 🧪 Casos prácticos: discriminación algorítmica, decisiones automatizadas, impacto social
+- 🧪 Generación de datos sintéticos con `Faker`  
+- ⚖️ Análisis de riesgos en el uso de datos falsos (bias, privacidad, representatividad)  
+- 🔐 Reflexión sobre el consentimiento y tratamiento de datos personales  
+- 🧠 Evaluación del impacto ético de modelos entrenados con datos sintéticos  
+- 📑 Aplicación de principios de gobernanza: transparencia, explicabilidad y rendición de cuentas  
+- 🌍 Discusión sobre el marco normativo y su relación con datos simulados  
+
+🐍 Desarrollado en **Python**, utilizando librerías como:  
+`faker`, `pandas`, `numpy`, `matplotlib`, `seaborn`
 
 ---
 
 ## 🚀 Habilidades desarrolladas
 
-- 🛡️ Identificación de riesgos éticos y sociales en el uso de PLN  
-- ⚖️ Aplicación de principios de gobernanza a proyectos de IA  
-- 🔍 Evaluación crítica del uso de datos y modelos en contextos reales  
-- 📚 Comprensión del marco legal y regulatorio en IA
+- 🤖 Simulación y análisis de datos con fines éticos y pedagógicos  
+- 🛡️ Aplicación práctica de principios de gobernanza en IA  
+- 🔍 Detección de posibles sesgos o impactos derivados del uso de datos falsos  
+- 📚 Argumentación crítica sobre el uso responsable de IA y PLN
 
 ---
 
 ## 🎯 Objetivo general
 
-Promover una mirada crítica y responsable sobre el uso de tecnologías de PLN e Inteligencia Artificial, incorporando principios éticos, legales y sociales en todas las etapas de desarrollo, implementación y evaluación de modelos.
+Reflexionar sobre el uso ético y legal de datos en proyectos de IA, mediante un enfoque práctico que utiliza datos sintéticos generados con `Faker`, y discutir cómo esto se relaciona con principios fundamentales de la **gobernanza de la inteligencia artificial**.
 
