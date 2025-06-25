@@ -1,28 +1,32 @@
-# 🧠🎙️ Técnicas del Procesamiento del Habla 📊
+# 🧠📌 Word Embeddings y Word2Vec
 
-📚 Recursos académicos 
+✅ Este módulo reúne prácticas y experimentos utilizando técnicas de representación vectorial del lenguaje, enfocándonos en **Word Embeddings** y el modelo **Word2Vec**.
 
-🏫 Materia de la Tecnicatura en Ciencia de Datos
+---
 
-✅ Este repositorio reúne prácticas y proyectos aplicando técnicas de análisis de texto.
+## 🔍 Contenido
 
- ## 🔍 Contenido
- 
-- Web Scraping con BeautifulSoup 📄 
-- Preprocesamiento y limpieza de texto ✨
-- Extracción y análisis  🎧 
-- Procesamiento de Lenguaje Natural (PLN) con spaCy 🧠
-- Minería de texto (Text Mining) 📊
-- Visualización de resultados 📊
+- 🔤 Tokenización y preparación del corpus textual  
+- ⚙️ Entrenamiento de modelos Word2Vec (CBOW y Skip-Gram)  
+- 📏 Evaluación de similitud semántica entre palabras  
+- 📈 Visualización de vectores en espacios reducidos (PCA / t-SNE)  
+- 📊 Comparación con otras técnicas de representación (Bag of Words, TF-IDF)  
+- 🧠 Exploración semántica y analógica: *"rey - hombre + mujer = reina"*
 
-🐍 Todo desarrollado en Python, utilizando librerías como BeautifulSoup, spaCy, NLTK, pandas, entre otras.
+🐍 Desarrollado en **Python**, utilizando librerías como:  
+`gensim`, `spaCy`, `scikit-learn`, `matplotlib`, `seaborn`, `pandas`
 
- ## 🚀 Habilidades desarrolladas  
- 
-🧪 Técnicas para extraer, limpiar y visualizar datos con Python 🐍 
+---
 
-🔍 Explorar el lenguaje humano desde los datos.
+## 🚀 Habilidades desarrolladas
 
-## 🎯 Objetivo general 
+- 🧠 Comprensión profunda de cómo las palabras se representan como vectores  
+- 🔍 Análisis semántico y cálculo de similitudes  
+- 🧪 Implementación de modelos de aprendizaje no supervisado sobre texto  
+- 📊 Visualización en 2D de espacios vectoriales de palabras
 
-Aplicar técnicas fundamentales y herramientas del procesamiento del habla y del lenguaje natural para analizar contenido textual real, combinando extracción de datos, preprocesamiento, análisis gramatical y visualización.
+---
+
+## 🎯 Objetivo general
+
+Aplicar modelos de representación vectorial del lenguaje para capturar relaciones semánticas y sintácticas entre palabras, y visualizar estructuras del lenguaje en espacios multidimensionales mediante el uso de **Word2Vec**.
