@@ -1,28 +1,33 @@
-# 🧠🎙️ Técnicas del Procesamiento del Habla 📊
+# 🧠🖼️🎙️ Multimodalidad
 
-📚 Recursos académicos 
+✅ Este módulo explora el enfoque **multimodal**, que combina diferentes tipos de datos como texto, audio, imagen y video para enriquecer el análisis en aplicaciones de inteligencia artificial.
 
-🏫 Materia de la Tecnicatura en Ciencia de Datos
+---
 
-✅ Este repositorio reúne prácticas y proyectos aplicando técnicas de análisis de texto.
+## 🔍 Contenido
 
- ## 🔍 Contenido
- 
-- Web Scraping con BeautifulSoup 📄 
-- Preprocesamiento y limpieza de texto ✨
-- Extracción y análisis  🎧 
-- Procesamiento de Lenguaje Natural (PLN) con spaCy 🧠
-- Minería de texto (Text Mining) 📊
-- Visualización de resultados 📊
+- 🧩 Fundamentos de la inteligencia multimodal  
+- 🗣️ Procesamiento conjunto de texto y voz  
+- 🖼️ Procesamiento de imágenes junto con texto (descripción automática, clasificación)  
+- 🔄 Fusión de datos en modelos neuronales  
+- 🤖 Aplicaciones con modelos como CLIP, Whisper, GPT multimodal  
+- 🌐 Herramientas para análisis cruzado de datos (texto + imagen/audio)
 
-🐍 Todo desarrollado en Python, utilizando librerías como BeautifulSoup, spaCy, NLTK, pandas, entre otras.
+🐍 Desarrollado en **Python**, utilizando librerías como:  
+`transformers`, `torch`, `openai-whisper`, `CLIP`, `PIL`, `gradio`, `librosa`, `numpy`
 
- ## 🚀 Habilidades desarrolladas  
- 
-🧪 Técnicas para extraer, limpiar y visualizar datos con Python 🐍 
+---
 
-🔍 Explorar el lenguaje humano desde los datos.
+## 🚀 Habilidades desarrolladas
 
-## 🎯 Objetivo general 
+- 🧠 Comprensión de cómo integrar diferentes tipos de datos en un mismo modelo  
+- 🎯 Análisis y combinación de entradas multimodales  
+- 🧪 Aplicación de modelos preentrenados multimodales  
+- 🌍 Desarrollo de soluciones más ricas y contextuales a partir de múltiples fuentes
 
-Aplicar técnicas fundamentales y herramientas del procesamiento del habla y del lenguaje natural para analizar contenido textual real, combinando extracción de datos, preprocesamiento, análisis gramatical y visualización.
+---
+
+## 🎯 Objetivo general
+
+Entender y aplicar el paradigma **multimodal** combinando texto, voz e imagen para construir sistemas más robustos y precisos en el análisis de lenguaje, percepción y generación de contenido.
+
