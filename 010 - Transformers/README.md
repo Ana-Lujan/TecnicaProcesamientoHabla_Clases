@@ -1,28 +1,33 @@
-# 🧠🎙️ Técnicas del Procesamiento del Habla 📊
+# 🤖✨ Transformers
 
-📚 Recursos académicos 
+✅ En este módulo exploramos los **Transformers**, una de las arquitecturas más revolucionarias en el campo del Procesamiento de Lenguaje Natural (PLN), base de modelos como BERT, GPT, T5 y muchos más.
 
-🏫 Materia de la Tecnicatura en Ciencia de Datos
+---
 
-✅ Este repositorio reúne prácticas y proyectos aplicando técnicas de análisis de texto.
+## 🔍 Contenido
 
- ## 🔍 Contenido
- 
-- Web Scraping con BeautifulSoup 📄 
-- Preprocesamiento y limpieza de texto ✨
-- Extracción y análisis  🎧 
-- Procesamiento de Lenguaje Natural (PLN) con spaCy 🧠
-- Minería de texto (Text Mining) 📊
-- Visualización de resultados 📊
+- ⚙️ Mecanismo de Self-Attention  
+- 🧠 Arquitectura Transformer: Encoder y Decoder  
+- 📚 Tokenización con modelos preentrenados  
+- 🔁 Uso de modelos como BERT y GPT con Hugging Face  
+- 🧪 Aplicación a clasificación, resumen, traducción y generación de texto  
+- 📊 Evaluación y visualización de resultados
 
-🐍 Todo desarrollado en Python, utilizando librerías como BeautifulSoup, spaCy, NLTK, pandas, entre otras.
+🐍 Desarrollado en **Python**, con herramientas como:  
+`transformers` (Hugging Face), `torch`, `datasets`, `tokenizers`, `pandas`, `matplotlib`
 
- ## 🚀 Habilidades desarrolladas  
- 
-🧪 Técnicas para extraer, limpiar y visualizar datos con Python 🐍 
+---
 
-🔍 Explorar el lenguaje humano desde los datos.
+## 🚀 Habilidades desarrolladas
 
-## 🎯 Objetivo general 
+- 🔍 Comprensión de la arquitectura Transformer y su impacto en el PLN  
+- 🧠 Implementación de modelos preentrenados sobre tareas personalizadas  
+- 🔧 Fine-tuning para casos reales  
+- 📈 Interpretación de métricas y visualización de resultados del modelo
 
-Aplicar técnicas fundamentales y herramientas del procesamiento del habla y del lenguaje natural para analizar contenido textual real, combinando extracción de datos, preprocesamiento, análisis gramatical y visualización.
+---
+
+## 🎯 Objetivo general
+
+Comprender y aplicar la arquitectura **Transformer** en tareas prácticas de Procesamiento de Lenguaje Natural, utilizando modelos de vanguardia mediante librerías modernas como Hugging Face.
+
