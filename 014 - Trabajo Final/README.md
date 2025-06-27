@@ -63,7 +63,7 @@ Desde el link generado por Gradio podés:
 
 ---
 
-## 📦 Dependencias (instaladas automáticamente)
+## 📦 Dependencias 
 
 ```bash
 gradio
